@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+legend {
+    font-weight: bold;
+}
+
+body {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+section {
+    width: 50%;
+    margin: 10vh auto;
+}
+
+fieldset {
+    padding: 5%;
+}
+
+label {
+    width: 30%;
+    display: inline-block;
+    font-weight: bold;
+}
+
+p {
+    display: inline-block;
+    font-weight: bold;
+}
+
+div {
+    margin: 2% 0;
+}
+
+.button {
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 6px;
+    border: 0.5px solid black;
+    margin-right: 5px;;
+}
